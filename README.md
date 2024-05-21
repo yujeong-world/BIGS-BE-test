@@ -11,7 +11,7 @@ Bigs Back-End 개발자 실습 테스트 - 지원자 권유정
 - MySQL
 - JPA
 
-##📌 구현 API
+## 📌 구현 API
  - 단기 예보를 DB에 저장하게 하는 API
    - API URL : /api/list
    - 메서드 : POST
