@@ -1,6 +1,5 @@
 ﻿# 🚀 BIGS-BE-test
-Bigs Back-End 개발자 실습 테스트
-지원자 권유정
+Bigs Back-End 개발자 실습 테스트 - 지원자 권유정
 
 
  ## 개발기간
