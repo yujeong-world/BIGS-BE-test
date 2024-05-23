@@ -55,7 +55,7 @@ public class WeatherService {
 
         // 파라미터 설정
         // serviceKey - 공공 api에서 받아온 키 값
-        String serviceKey = "%2BGVxfL6Wwn2MN2H%2BW0YmbOXdvMh4MpBg9nDKvRlB8DCU1yeWMRffH1CFDvmgbagQDO7If3tMQDPc2KLWcl78nw%3D%3D";
+        String serviceKey = "키 값을 넣어주세요!";
         String numOfRows = "50";
         String pageNo = "1";
         // 조회할 날짜 (최근3일만 조회 가능함)
